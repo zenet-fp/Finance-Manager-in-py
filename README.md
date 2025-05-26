@@ -11,6 +11,12 @@ Categorized transaction logs for easy tracking
 Save and load your financial data using CSV files
 
 Basic error handling for user input
+
+linear_regression_forecast
+
+moving_average_forecast
+
+Holt-Winters
  
 # How It Works
 The main functionality is built around a class-based structure that manages:
