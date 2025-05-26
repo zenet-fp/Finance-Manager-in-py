@@ -1,5 +1,5 @@
 # Finance Manager in Python
-A simple yet effective personal finance manager built with Python. This tool helps you track your income and expenses, categorize transactions, and monitor your overall financial health directly from the Tkinter's GUI.
+A simple yet effective personal finance manager built with Python. This tool helps you track your income and expenses, categorize transactions, and monitor your overall financial health directly from the Tkinter's GUI. Based on user data the program inputs these values into different mathematical models, and chooses which is the best to output to the user. 
 
 # Features
 Add income and expense entries with descriptions and categories
@@ -12,9 +12,9 @@ Save and load your financial data using CSV files
 
 Basic error handling for user input
 
-linear_regression_forecast
+linear regression forecast
 
-moving_average_forecast
+moving average forecast
 
 Holt-Winters
  
