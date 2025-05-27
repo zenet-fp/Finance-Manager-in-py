@@ -10,7 +10,7 @@ from dateutil.relativedelta import relativedelta
 import requests
 import numpy as np
 
-# API for currency conversion (free tier)
+# API for currency conversion
 CURRENCY_API_URL = "https://api.exchangerate-api.com/v4/latest/GBP"  # Base currency is GBP
 
 
