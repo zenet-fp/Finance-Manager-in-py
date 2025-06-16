@@ -25,4 +25,4 @@ Incomes and expenses as separate lists
 
 CSV-based data persistence
 
-Console-based user interaction for adding and displaying financial data
+GUI-based user interaction for adding and displaying financial data
